@@ -1,0 +1,11 @@
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\bin\Debug\netcoreapp2.1\AWSLambdaCodePipeline.deps.json
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\bin\Debug\netcoreapp2.1\AWSLambdaCodePipeline.runtimeconfig.json
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\bin\Debug\netcoreapp2.1\AWSLambdaCodePipeline.runtimeconfig.dev.json
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\bin\Debug\netcoreapp2.1\AWSLambdaCodePipeline.dll
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\bin\Debug\netcoreapp2.1\AWSLambdaCodePipeline.pdb
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\obj\Debug\netcoreapp2.1\AWSLambdaCodePipeline.csprojAssemblyReference.cache
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\obj\Debug\netcoreapp2.1\AWSLambdaCodePipeline.csproj.CoreCompileInputs.cache
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\obj\Debug\netcoreapp2.1\AWSLambdaCodePipeline.AssemblyInfoInputs.cache
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\obj\Debug\netcoreapp2.1\AWSLambdaCodePipeline.AssemblyInfo.cs
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\obj\Debug\netcoreapp2.1\AWSLambdaCodePipeline.dll
+D:\AWSLambdaTest\AWSLambdaCodePipeline\AWSLambdaCodePipeline\obj\Debug\netcoreapp2.1\AWSLambdaCodePipeline.pdb
